@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16.000057"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-removable-symbolic.svg">
+  <title
+     id="title4176">Kawaiki Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#4a4a4a"
+     bordercolor="#e50000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     id="namedview16"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="4.3743829"
+     inkscape:cy="9.6516259"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kawaiki Icon Theme</dc:title>
+        <dc:date>2014-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Georg Eckert</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>German</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer10" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer11" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer13" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer14" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g71291"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g4953"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer12"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     id="g3791"
+     transform="translate(-101.0002,-217)" />
+  <path
+     style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     d="M 5 0 C 4.446 0 4 0.446 4 1 L 4 12 C 4 12.554 4.446 13 5 13 L 11 13 C 11.554 13 12 12.554 12 12 L 12 1 C 12 0.446 11.554 0 11 0 L 5 0 z M 7.96875 1.5 C 8.089174 1.486828 8.20617 1.52993 8.28125 1.625 L 9 2.5625 C 9.08232 2.667202 9.1199 2.817314 9.0625 2.9375 C 9.005097 3.057683 8.85193 3.1232 8.71875 3.125 L 8.53125 3.125 L 8.53125 5.71875 C 8.710486 5.600184 8.911561 5.493488 9.0625 5.375 C 9.290799 5.195785 9.46316 5.003985 9.5625 4.75 C 9.410062 4.710411 9.281555 4.563744 9.28125 4.40625 L 9.28125 3.3125 C 9.280829 3.125252 9.437761 2.97055 9.625 2.96875 L 10.71875 2.96875 C 10.907438 2.968334 11.094167 3.123811 11.09375 3.3125 L 11.09375 4.40625 C 11.094165 4.594938 10.907438 4.781667 10.71875 4.78125 L 10.65625 4.78125 C 10.597271 5.138967 10.493906 5.440586 10.3125 5.6875 C 10.07007 6.017475 9.778016 6.260238 9.5 6.46875 C 9.221983 6.677263 8.946429 6.87438 8.78125 7.0625 C 8.616067 7.250621 8.53125 7.413457 8.53125 7.6875 L 8.53125 8.59375 L 8.53125 9.5 C 8.852649 9.687919 9.09375 10.008831 9.09375 10.40625 C 9.09375 11.00237 8.59612 11.5 8 11.5 C 7.403881 11.5 6.90625 11.00237 6.90625 10.40625 C 6.90625 10.008831 7.147351 9.687919 7.46875 9.5 L 7.46875 8.96875 C 7.46875 8.702359 7.374767 8.5267554 7.21875 8.34375 C 7.062733 8.160745 6.82995 7.981077 6.5625 7.78125 C 6.071489 7.414388 5.492615 6.899628 5.34375 6.0625 C 5.095367 5.902461 4.90625 5.630667 4.90625 5.3125 C 4.90625 4.816861 5.316863 4.40625 5.8125 4.40625 C 6.308138 4.40625 6.71875 4.816861 6.71875 5.3125 C 6.71875 5.569531 6.610449 5.805371 6.4375 5.96875 C 6.537585 6.270504 6.734873 6.485861 7 6.6875 C 7.141712 6.795278 7.304422 6.891407 7.46875 7 L 7.46875 3.125 L 7.28125 3.125 C 7.148071 3.123226 6.9949 3.057687 6.9375 2.9375 C 6.8801 2.817314 6.91768 2.667202 7 2.5625 L 7.71875 1.625 C 7.777663 1.550405 7.87426 1.51032 7.96875 1.5 z "
+     id="rect2993" />
+  <rect
+     style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     id="rect2995"
+     width="4"
+     height="3"
+     x="6"
+     y="13.000057"
+     ry="0" />
+</svg>
