@@ -1,0 +1,4 @@
+kawaiki
+=======
+
+Kawaiki Icon Theme
