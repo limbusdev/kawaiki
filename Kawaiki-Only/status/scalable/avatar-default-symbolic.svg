@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16.000057"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="appointment-missed-symbolic.svg">
+  <title
+     id="title4176">Kawaiki Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#4a4a4a"
+     bordercolor="#e50000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     id="namedview16"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:zoom="16"
+     inkscape:cx="-0.056962"
+     inkscape:cy="0.52076242"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kawaiki Icon Theme</dc:title>
+        <dc:date>2014-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Georg Eckert</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>German</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer10" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer11" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer13" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer14" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g71291"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g4953"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer12"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     id="g3791"
+     transform="translate(-101.0002,-217)" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     id="path3020"
+     sodipodi:cx="8"
+     sodipodi:cy="4.0000572"
+     sodipodi:rx="4"
+     sodipodi:ry="4"
+     d="m 12,4.0000572 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z" />
+  <path
+     style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+     d="m 7.9375,6.0000572 0.125,0 c 1.073375,0 1.5871196,0.9488589 1.9375,2 l 2,5.9999998 c 0.35038,1.051141 -0.864125,2 -1.9375,2 l -4.125,0 c -1.073375,0 -2.2878804,-0.948859 -1.9375,-2 L 6,8.0000572 c 0.3503804,-1.0511411 0.864125,-2 1.9375,-2 z"
+     id="rect3022"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
+</svg>
