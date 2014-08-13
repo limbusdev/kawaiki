@@ -10,23 +10,31 @@ Hello, I am happy, that you found my Icon-Theme. I put lots of work into it. It'
 Please take that one second to vote up, if you like my work :)
 
 
-Thanks:
+Thanks
+======
+
 Go to all the artists out there, who inspired me with their beautiful works. Especially the creator of the Faenza and Faience Icon Themes, who brought us a new level of beauty on the linux desktop.
 I also loved the Human Folder Icons in Ubuntu Jaunty and never understood, why they changed them.
 
 
-README:
-As long as this theme is not complete, you may find it much prettier, when using it together with tiheum's awesome Faenza-Icon-Theme. Just add it as "Inherits=" in the index.theme file.
+Installing
+==========
 
-Important! If you use this Icon-Theme with XFCE or LXDE, don't forget to add their standard-icon-themes in the "index.theme" file "inherits"-line.
+Installing Kwaiki Icon Theme ist straight forward. If you want the theme to be available for all users of your PC,
+copy all Kawaiki folders to /usr/share/icons.
+If you want it to be available only for yourself, copy to ~/.icons (in your home directory).
 
-e.g.: Xubuntu
-- open "index.theme" in "Kawaiki-Only"
-- add elementary-xfce after "Inherits="
+The easiest way of installing is by using the script. It will lead you through the process
+and will edit the themes files to go smootheley with your chosen GTK+ theme.
+
+Just run ./INSTALL.sh from the command line, within the Kawaiki-Icon-Theme folder.
+Run as root to install for all users.
 
 
 
-Changelog:
+Changelog
+=========
+
 2014-01-28 0.8 Many Improvements, many icons now have different appearance in different sizes, all folder-themes are complete, many bugfixes (especially symbolic icons) - nearing final release :)
 
 2014-01-28 0.7 Complete Folder-Icons-Sets plus one new flavour: WildSerengeti. Started different icons for different sizes. Places (except for Grey Theme): Complete! Look forward for the final release :)
