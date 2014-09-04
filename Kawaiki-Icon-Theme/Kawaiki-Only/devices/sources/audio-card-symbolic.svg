@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16.000057"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-card-symbolic.svg">
+  <title
+     id="title4176">Kawaiki Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#4a4a4a"
+     bordercolor="#e50000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1022"
+     inkscape:window-height="578"
+     id="namedview16"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="6.3362785"
+     inkscape:cy="8.3988034"
+     inkscape:window-x="2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kawaiki Icon Theme</dc:title>
+        <dc:date>2014-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Georg Eckert</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>German</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8.0000286 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8.0000286 : 1"
+       inkscape:persp3d-origin="8 : 5.3333524 : 1"
+       id="perspective3079" />
+  </defs>
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer10" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer11" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer13" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer14" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g71291"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g4953"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer12"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     id="g3791"
+     transform="translate(-101.0002,-217)" />
+  <path
+     style="fill:#d3d7cf;stroke:none;opacity:1"
+     d="M 3 0 L 3 2 L 2 2 L 2 4 L 0 4 L 0 5 L 2 5 L 2 6 L 0 6 L 0 7 L 2 7 L 2 8 L 0 8 L 0 9 L 2 9 L 2 10 L 0 10 L 0 11 L 2 11 L 2 12 L 0 12 L 0 13 L 2 13 L 2 14 L 4 14 L 4 16 L 5 16 L 5 14 L 6 14 L 6 16 L 7 16 L 7 14 L 8 14 L 8 16 L 9 16 L 9 14 L 10 14 L 10 16 L 11 16 L 11 14 L 12 14 L 12 16 L 13 16 L 13 14 L 14 14 L 14 12 L 16 12 L 16 11 L 14 11 L 14 10 L 16 10 L 16 9 L 14 9 L 14 8 L 16 8 L 16 7 L 14 7 L 14 6 L 16 6 L 16 5 L 14 5 L 14 4 L 16 4 L 16 3 L 14 3 L 14 2 L 12 2 L 12 0 L 11 0 L 11 2 L 10 2 L 10 0 L 9 0 L 9 2 L 8 2 L 8 0 L 7 0 L 7 2 L 6 2 L 6 0 L 5 0 L 5 2 L 4 2 L 4 0 L 3 0 z M 4 3 L 12 3 C 12.554 3 13 3.446 13 4 L 13 12 C 13 12.554 12.554 13 12 13 L 4 13 C 3.446 13 3 12.554 3 12 L 3 4 C 3 3.446 3.446 3 4 3 z M 8 4 L 8 5 L 8 6 L 8 7 L 8 10.09375 C 7.8436987 10.056946 7.6752011 10 7.5 10 C 6.6715729 10 6 10.447715 6 11 C 6 11.552285 6.6715729 12 7.5 12 C 8.3284271 12 9 11.552285 9 11 L 9 7 L 10 7 L 10 6 L 9 6 L 9 5 L 11 5 L 11 4 L 9 4 L 8 4 z "
+     id="rect2997" />
+  <path
+     style="opacity:0.15;fill:#d3d7cf;stroke:none"
+     d="m 2,2.0000572 12,0 0,11.9999998 -12,0 z"
+     id="rect3102" />
+</svg>

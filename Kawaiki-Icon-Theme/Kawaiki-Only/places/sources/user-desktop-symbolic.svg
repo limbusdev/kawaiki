@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16.000057"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="folder-music-symbolic.svg.2014_01_30_00_14_44.0.svg">
+  <title
+     id="title4176">Kawaiki Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#4a4a4a"
+     bordercolor="#e50000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     id="namedview16"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:zoom="32"
+     inkscape:cx="8"
+     inkscape:cy="10.88767"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kawaiki Icon Theme</dc:title>
+        <dc:date>2014-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Georg Eckert</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>German</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer10" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer11" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer13" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer14" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g71291"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g4953"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer12"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     id="g3791"
+     transform="translate(-101.0002,-217)" />
+  <rect
+     style="opacity:0.25;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     id="rect4590"
+     width="16"
+     height="14"
+     x="0"
+     y="1.0000572"
+     ry="1"
+     rx="1" />
+  <path
+     style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     d="M 1 1 C 0.446 1 0 1.446 0 2 L 0 14 C 0 14.554 0.446 15 1 15 L 15 15 C 15.554 15 16 14.554 16 14 L 16 2 C 16 1.446 15.554 1 15 1 L 1 1 z M 1 2 L 15 2 L 15 14 L 1 14 L 1 2 z "
+     id="rect4592" />
+  <rect
+     style="fill:#d3d7cf;fill-opacity:1;stroke:none;opacity:0.75"
+     id="rect4597"
+     width="5"
+     height="7"
+     x="2"
+     y="3.0000572"
+     ry="1" />
+  <rect
+     style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+     id="rect4599"
+     width="0"
+     height="0"
+     x="0"
+     y="0" />
+  <rect
+     ry="1"
+     y="5.0000572"
+     x="4"
+     height="7"
+     width="5"
+     id="rect3764"
+     style="opacity:0.75;fill:#d3d7cf;fill-opacity:1;stroke:none" />
+</svg>
