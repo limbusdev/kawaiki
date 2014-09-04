@@ -109,17 +109,17 @@ echo "Dusk [d]"
 echo "Evening [e] (fits Ubuntu Ambience)"
 echo "Midnight [m]"
 
-brightness="/brightness/light/"
+brightness="/brightness/light/*"
 
 read theme
 if [ "$theme" == "s" ]
     then echo "nothing will be changed"
     elif [ "$theme" == "d" ]
-        then brightness="/brightness/light/"
+        then brightness="/brightness/light/*"
     elif [ "$theme" == "e" ]
-        then brightness="/brightness/dark/"
+        then brightness="/brightness/dark/*"
     elif [ "$theme" == "m" ]
-        then brightness="/brightness/dark/"
+        then brightness="/brightness/dark/*"
     else echo "nothing will be changed"
 fi
 
@@ -127,10 +127,10 @@ brightnesssrc=$basedir$brightness
 
 if [ "$UID" -ne "$ROOT_UID" ]
 then
-    cp $brightnesssrc ~/.icons/Kawaiki-Only/
+    cp -r $brightnesssrc ~/.icons/Kawaiki-Only/
 else
     mkdir /usr/share/icons
-    cp $brightnesssrc /usr/share/icons/Kawaiki-Only/
+    cp -r $brightnesssrc /usr/share/icons/Kawaiki-Only/
 fi
 
 
