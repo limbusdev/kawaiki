@@ -103,6 +103,37 @@ else
 fi
 
 
+echo "Is your GTK theme rather dark or bright?"
+echo "Sunshine [s] (fits Xubuntu and Ubuntu Radiance)"
+echo "Dusk [d]"
+echo "Evening [e] (fits Ubuntu Ambience)"
+echo "Midnight [m]"
+
+brightness="/brightness/light/"
+
+read theme
+if [ "$theme" == "s" ]
+    then echo "nothing will be changed"
+    elif [ "$theme" == "d" ]
+        then brightness="/brightness/light/"
+    elif [ "$theme" == "e" ]
+        then brightness="/brightness/dark/"
+    elif [ "$theme" == "m" ]
+        then brightness="/brightness/dark/"
+    else echo "nothing will be changed"
+fi
+
+brightnesssrc=$basedir$brightness
+
+if [ "$UID" -ne "$ROOT_UID" ]
+then
+    cp $brightnesssrc ~/.icons/Kawaiki-Only/
+else
+    mkdir /usr/share/icons
+    cp $brightnesssrc /usr/share/icons/Kawaiki-Only/
+fi
+
+
 echo "You can use Gnome/Unity Tweak Tool, to choose Kawaiki-Icon-Theme."
 echo "Thanks for installing! Please consider donating to this project."
 
