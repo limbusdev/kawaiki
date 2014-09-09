@@ -104,11 +104,12 @@ fi
 
 
 echo "Is your GTK theme rather dark or bright?"
-echo "Sunshine [s] (fits Xubuntu and Ubuntu Radiance)"
+echo "Sunshine [s] (fits Ubuntu Radiance)"
 echo "Dusk [d]"
 echo "Evening [e]"
 echo "Midnight [m]"
 echo "Ubuntu Ambience [u]"
+echo "Xubuntu [x]"
 
 brightness="/brightness/light/*"
 
@@ -123,6 +124,8 @@ if [ "$theme" == "s" ]
         then brightness="/brightness/dark/*"
     elif [ "$theme" == "u" ]
         then brightness="/brightness/ubuntu-ambience/*"
+    elif [ "$theme" == "x" ]
+        then brightness="/brightness/xubuntu/*"
     else echo "nothing will be changed"
 fi
 
