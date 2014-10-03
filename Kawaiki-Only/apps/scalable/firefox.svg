@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1381"
-     inkscape:window-height="876"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
      id="namedview2894"
      showgrid="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="88.137955"
-     inkscape:cy="64.662073"
-     inkscape:window-x="1339"
-     inkscape:window-y="24"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="80.645195"
+     inkscape:cy="63.564131"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -46,6 +46,17 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient6864">
+      <stop
+         style="stop-color:#ffa100;stop-opacity:1;"
+         offset="0"
+         id="stop6866" />
+      <stop
+         style="stop-color:#f57900;stop-opacity:1;"
+         offset="1"
+         id="stop6868" />
+    </linearGradient>
     <linearGradient
        id="linearGradient7003">
       <stop
@@ -14546,6 +14557,16 @@
        y1="188"
        x2="64"
        y2="8" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6864"
+       id="radialGradient6870"
+       cx="64"
+       cy="62.000003"
+       fx="64"
+       fy="62.000003"
+       r="52"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -14596,7 +14617,7 @@
      height="104"
      width="104" />
   <rect
-     style="fill:#f57900;fill-opacity:1;stroke:#fcaf3e"
+     style="fill:url(#radialGradient6870);fill-opacity:1;stroke:none"
      id="rect6964"
      y="10.000003"
      x="12"
