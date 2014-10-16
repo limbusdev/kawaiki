@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="libreoffice-impress.svg">
+   sodipodi:docname="libreoffice-draw.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -68,7 +68,7 @@
        xlink:href="#linearGradient4216-4-8-2-7"
        id="radialGradient5899"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3.8146973e-7,1.9999882)"
+       gradientTransform="translate(3.8146973e-7,-922.36219)"
        cx="64"
        cy="1020.3622"
        fx="64"
@@ -263,6 +263,39 @@
        y1="1028.3622"
        x2="64"
        y2="996.36218" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4875"
+       id="radialGradient3083"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(10.816159,8.3195344e-7,-8.3195375e-7,10.816164,-1631.8502,-792.10476)"
+       cx="155"
+       cy="78.977249"
+       fx="155"
+       fy="78.977249"
+       r="3.578125" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4875"
+       id="radialGradient3091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(10.816159,8.3195344e-7,-8.3195375e-7,10.816164,-1631.8502,-792.10476)"
+       cx="155"
+       cy="78.977249"
+       fx="155"
+       fy="78.977249"
+       r="3.578125" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4875"
+       id="radialGradient3099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7947587,2.1496624e-7,-2.1496632e-7,2.7947599,-278.18758,-141.72248)"
+       cx="155"
+       cy="78.977249"
+       fx="155"
+       fy="78.977249"
+       r="3.578125" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -271,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.921875"
-     inkscape:cx="185.1097"
-     inkscape:cy="22.661791"
+     inkscape:zoom="23.375"
+     inkscape:cx="155.53795"
+     inkscape:cy="37.240817"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -333,24 +366,16 @@
        width="104"
        id="rect6938"
        style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter6960)" />
-    <rect
+    <path
        style="fill:url(#radialGradient5899);fill-opacity:1;stroke:none"
-       id="rect6936"
-       width="104"
-       height="104"
-       x="12"
-       y="938.36218"
-       rx="8"
-       ry="8" />
-    <rect
-       ry="8"
-       rx="8"
-       y="934.36218"
-       x="12"
-       height="104"
-       width="104"
-       id="rect6964"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       d="M 40.9375 14 L 40.9375 112.65625 L 40.9375 112.90625 L 40.9375 114 A 0.15001501 0.15001501 0 0 1 40.9375 114.03125 A 0.15001501 0.15001501 0 0 1 40.9375 114.0625 L 40.9375 117.875 C 40.9375 117.913 40.938082 117.958 40.9375 118 L 108 118 C 112.432 118 116 114.432 116 110 L 116 22 C 116 17.568 112.432 14 108 14 L 40.9375 14 z "
+       transform="translate(0,924.36218)"
+       id="rect6936" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 40.9375 10 L 40.9375 11.0625 L 40.9375 112.65625 L 40.9375 112.90625 L 40.9375 114 L 108 114 C 112.432 114 116 110.432 116 106 L 116 18 C 116 13.568 112.432 10 108 10 L 40.9375 10 z "
+       transform="translate(0,924.36218)"
+       id="rect6964" />
     <rect
        style="opacity:0.5;fill:url(#linearGradient5895);fill-opacity:1;stroke:none"
        id="rect6975"
