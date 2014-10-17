@@ -963,16 +963,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.3694852"
-     inkscape:cx="105.1196"
-     inkscape:cy="20.65186"
+     inkscape:zoom="25.477941"
+     inkscape:cx="146.61406"
+     inkscape:cy="8.333223"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="971"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -1200,7 +1200,8 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#555753;fill-opacity:1;stroke:none"
-       d="m 152,1040.3622 -4,4 1,0 0,4 6,0 0,-4 1,0 -4,-4 z"
-       id="rect10727" />
+       d="m 152,1041.3622 -3,3 0,4 6,0 0,-4 z"
+       id="rect10727"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
