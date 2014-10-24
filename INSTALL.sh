@@ -1,6 +1,12 @@
 #!/bin/bash
 # Installation script for Kawaiki-Icon-Theme
 
+echo ""
+echo " ------------------------------"
+echo "  Kawaiki Icon Theme Installer"
+echo " ------------------------------"
+echo ""
+
 # Check if executing user has root-priviliges
 ROOT_UID=0
 if [ "$UID" -ne "$ROOT_UID" ]
@@ -40,6 +46,10 @@ theme9="/Kawaiki-TurquoiseBay"
 theme9source=$basedir$theme9
 theme10="/Kawaiki-WildSerengeti"
 theme10source=$basedir$theme10
+theme11="/Kawaiki-PitchBlack"
+theme11source=$basedir$theme11
+theme12="/Kawaiki-SnowWhite"
+theme12source=$basedir$theme12
 
 # copy files, depending on user-rights
 
@@ -56,6 +66,8 @@ then
     cp -r $theme8source ~/.icons/
     cp -r $theme9source ~/.icons/
     cp -r $theme10source ~/.icons/
+    cp -r $theme11source ~/.icons/
+    cp -r $theme12source ~/.icons/
 else
     mkdir /usr/share/icons
     cp -r $theme1source /usr/share/icons/
@@ -68,6 +80,8 @@ else
     cp -r $theme8source /usr/share/icons/
     cp -r $theme9source /usr/share/icons/
     cp -r $theme10source /usr/share/icons/
+    cp -r $theme11source /usr/share/icons/
+    cp -r $theme12source /usr/share/icons/
 fi
 
 # customize theme installation
@@ -104,23 +118,17 @@ fi
 
 
 echo "Is your GTK theme rather dark or bright?"
-echo "Sunshine [s] (fits Ubuntu Radiance)"
-echo "Dusk [d]"
-echo "Evening [e]"
-echo "Midnight [m]"
+echo "Light [l] (fits Ubuntu Radiance)"
+echo "Dark [d]"
 echo "Ubuntu Ambience [u]"
 echo "Xubuntu [x]"
 
 brightness="/brightness/light/*"
 
 read theme
-if [ "$theme" == "s" ]
+if [ "$theme" == "l" ]
     then echo "nothing will be changed"
     elif [ "$theme" == "d" ]
-        then brightness="/brightness/dusk/*"
-    elif [ "$theme" == "e" ]
-        then brightness="/brightness/evening/*"
-    elif [ "$theme" == "m" ]
         then brightness="/brightness/dark/*"
     elif [ "$theme" == "u" ]
         then brightness="/brightness/ubuntu-ambience/*"

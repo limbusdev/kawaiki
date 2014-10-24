@@ -35,6 +35,8 @@ Run as root to install for all users.
 Changelog
 =========
 
+2014-10-24 0.9.6 New Package, new Structure, Links instead of double files, Two new Flavors: PitchBlack and SnowWhite
+
 2014-01-28 0.8 Many Improvements, many icons now have different appearance in different sizes, all folder-themes are complete, many bugfixes (especially symbolic icons) - nearing final release :)
 
 2014-01-28 0.7 Complete Folder-Icons-Sets plus one new flavour: WildSerengeti. Started different icons for different sizes. Places (except for Grey Theme): Complete! Look forward for the final release :)
