@@ -37,7 +37,7 @@ elif conversion_mode == '-multi':
 for input_svg in svg_list:
     print('Processing ' + input_svg)
 
-    for size in [96, 64, 48]:
+    for size in [96, 64, 48, 32]:
         inkscape_command = ('inkscape '
                             + '--export-area-page '
                             + '--export-width=' + str(size) + ' '
@@ -50,7 +50,7 @@ for input_svg in svg_list:
         conversion = subprocess.Popen(inkscape_command, shell=True)
         conversion.wait()
 
-    for size in [24, 22, 32]:
+    for size in [24, 22]:
         inkscape_command = ('inkscape '
                             + '--export-area=144:32:176:64 '
                             + '--export-width=' + str(size) + ' '
