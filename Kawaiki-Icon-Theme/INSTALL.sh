@@ -1,10 +1,18 @@
 #!/bin/bash
 # Installation script for Kawaiki-Icon-Theme
 
+echo " __   ___  __  __           _   __        __   __   ___  __ "
+echo "|  | /  / |  \ \ \         | | |  \      |  | |  | /  / |  |"
+echo "|  |/  /  |   \ \ \   __   | | |   \     |  | |  |/  /  |  |"
+echo "|     /   | |\ \ \ \ |  \  | | | |\ \    |  | |     /   |  |"
+echo "|     \   | |_\ \ \ \||\ \ | | | |_\ \   |  | |     \   |  |"
+echo "|  |\  \  |  __  \ \  | \ \| | |  __  \  |  | |  |\  \  |  |"
+echo "|__| \__\ |_|  \__\ \_|  \___| |_|  \__\ |__| |__| \__\ |__|"
+
 echo ""
-echo " ------------------------------"
-echo "  Kawaiki Icon Theme Installer"
-echo " ------------------------------"
+echo "             ------------------------------"
+echo "              Kawaiki Icon Theme Installer"
+echo "             ------------------------------"
 echo ""
 
 # Check if executing user has root-priviliges
