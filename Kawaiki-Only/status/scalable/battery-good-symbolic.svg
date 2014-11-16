@@ -26,8 +26,8 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="968"
+     inkscape:window-width="1366"
+     inkscape:window-height="743"
      id="namedview16"
      showgrid="true"
      inkscape:showpageshadow="true"
@@ -36,7 +36,7 @@
      inkscape:cx="-2.619462"
      inkscape:cy="0.52076242"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      showguides="true"
@@ -126,15 +126,8 @@
      d="M 8 0 C 3.581722 2.3684758e-15 0 3.581722 0 8 C 0 12.418278 3.581722 16 8 16 C 12.418278 16 16 12.418278 16 8 C 16 3.581722 12.418278 -1.7763568e-15 8 0 z M 8 2 C 11.313708 2 14 4.6862915 14 8 C 14 11.313708 11.313708 14 8 14 C 4.6862915 14 2 11.313708 2 8 C 2 4.6862915 4.6862915 2 8 2 z "
      id="path3044" />
   <path
-     sodipodi:type="arc"
-     style="fill:none;stroke:#d3d7cf;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 7.96875,0 C 5.3723002,0.00891671 2.9289764,1.2808961 1.4375,3.40625 -1.0936688,7.0131655 -0.20066553,12.031331 3.40625,14.5625 7.0131655,17.093669 12.031331,16.200666 14.5625,12.59375 A 1.0099602,1.0099602 0 1 0 12.90625,11.4375 C 10.995967,14.159654 7.2846538,14.816533 4.5625,12.90625 1.8403462,10.995967 1.1834667,7.2846538 3.09375,4.5625 4.2133801,2.9670271 6.0196321,2.0066936 7.96875,2 a 1.0001,1.0001 0 1 0 0,-2 z"
      id="path3087"
-     sodipodi:cx="8"
-     sodipodi:cy="8.0000572"
-     sodipodi:rx="7"
-     sodipodi:ry="7"
-     d="M 13.729897,12.021037 A 7,7 0 1 1 7.9759608,1.0000985"
-     sodipodi:start="0.61190243"
-     sodipodi:end="4.7089548"
-     sodipodi:open="true" />
+     inkscape:connector-curvature="0" />
 </svg>
