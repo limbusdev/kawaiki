@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+# Usage: ./new_color_script.py #ffffff #000000
+
 import sys
 import os
 import subprocess
