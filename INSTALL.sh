@@ -58,6 +58,10 @@ theme11="/Kawaiki-PitchBlack"
 theme11source=$basedir$theme11
 theme12="/Kawaiki-SnowWhite"
 theme12source=$basedir$theme12
+theme13="/Kawaiki-AzurOcean"
+theme13source=$basedir$theme12
+theme14="/Kawaiki-BreezyForest"
+theme14source=$basedir$theme12
 
 # copy files, depending on user-rights
 
@@ -76,6 +80,8 @@ then
     cp -r $theme10source ~/.icons/
     cp -r $theme11source ~/.icons/
     cp -r $theme12source ~/.icons/
+    cp -r $theme13source ~/.icons/
+    cp -r $theme14source ~/.icons/
 else
     mkdir /usr/share/icons
     cp -r $theme1source /usr/share/icons/
@@ -90,6 +96,8 @@ else
     cp -r $theme10source /usr/share/icons/
     cp -r $theme11source /usr/share/icons/
     cp -r $theme12source /usr/share/icons/
+    cp -r $theme13source /usr/share/icons/
+    cp -r $theme14source /usr/share/icons/
 fi
 
 # customize theme installation
