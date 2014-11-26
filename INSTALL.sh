@@ -59,9 +59,9 @@ theme11source=$basedir$theme11
 theme12="/Kawaiki-SnowWhite"
 theme12source=$basedir$theme12
 theme13="/Kawaiki-AzurOcean"
-theme13source=$basedir$theme12
+theme13source=$basedir$theme13
 theme14="/Kawaiki-BreezyForest"
-theme14source=$basedir$theme12
+theme14source=$basedir$theme14
 
 # copy files, depending on user-rights
 
