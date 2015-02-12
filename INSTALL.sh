@@ -1,6 +1,9 @@
 #!/bin/bash
 # Installation script for Kawaiki-Icon-Theme
 
+green='\033[0;32m'
+NC='\033[0m' # No Color
+
 echo " __   ___  __  __           _   __        __   __   ___  __ "
 echo "|  | /  / |  \ \ \         | | |  \      |  | |  | /  / |  |"
 echo "|  |/  /  |   \ \ \   __   | | |   \     |  | |  |/  /  |  |"
@@ -10,9 +13,9 @@ echo "|  |\  \  |  __  \ \  | \ \| | |  __  \  |  | |  |\  \  |  |"
 echo "|__| \__\ |_|  \__\ \_|  \___| |_|  \__\ |__| |__| \__\ |__|"
 
 echo ""
-echo "             ------------------------------"
-echo "              Kawaiki Icon Theme Installer"
-echo "             ------------------------------"
+echo -e "${green}             ------------------------------${NC}"
+echo -e "${green}              Kawaiki Icon Theme Installer${NC}"
+echo -e "${green}             ------------------------------${NC}"
 echo ""
 
 # Check if executing user has root-priviliges
@@ -98,6 +101,24 @@ else
     cp -r $theme12source /usr/share/icons/
     cp -r $theme13source /usr/share/icons/
     cp -r $theme14source /usr/share/icons/
+fi
+
+# Copy XFCE specific icons
+echo "Are you using XFCE? If using XFCE please type y,"
+echo "otherwise battery icons will be too big. [y/n]"
+
+xfcepath="/XFCE/status"
+statuspath=$basedir$xfcepath
+read xfce
+if [ "$xfce" == "y" ]
+  then
+    if [ "$UID" -ne "$ROOT_UID" ]
+      then
+      cp -r $statuspath ~/.icons/Kawaiki-Only/
+    else
+      mkdir /usr/share/icons
+      cp -r $statuspath /usr/share/icons/Kawaiki-Only/
+    fi
 fi
 
 # customize theme installation
