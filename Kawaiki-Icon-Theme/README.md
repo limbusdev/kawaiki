@@ -34,6 +34,7 @@ Run as root to install for all users.
 
 Changelog
 =========
+2015-02-12 0.9.8 Fixed XFCE battery icon size - choose XFCE? > y
 
 2014-10-24 0.9.6 New Package, new Structure, Links instead of double files, Two new Flavors: PitchBlack and SnowWhite
 
