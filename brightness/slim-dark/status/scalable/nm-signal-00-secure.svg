@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16.000057"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="nm-signal-25-secure.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#e50000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview16"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:zoom="32"
+     inkscape:cx="-1.8134651"
+     inkscape:cy="7.0442417"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386" />
+  <path
+     style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
+     d="M 8 1 C 4.1340068 1 1 4.1340068 1 8 C 1 10.801037 2.6544622 13.193558 5.03125 14.3125 C 5.0150272 14.211456 5 14.10506 5 14 L 5 13.1875 C 3.2066295 12.150063 2 10.220822 2 8 C 2 4.6862915 4.6862915 2 8 2 C 11.313708 2 14 4.6862915 14 8 C 14 10.220822 12.793371 12.150063 11 13.1875 L 11 14 C 11 14.10506 10.984973 14.211456 10.96875 14.3125 C 13.345538 13.193558 15 10.801037 15 8 C 15 4.1340068 11.865993 1 8 1 z "
+     id="path3016" />
+  <path
+     style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
+     d="M 8 3 C 5.2385763 3 3 5.2385763 3 8 C 3 9.6240342 3.8004547 11.055407 5 11.96875 L 5 10.65625 C 4.5460271 10.142661 4.2364154 9.5096885 4.09375 8.8125 C 4.0897051 8.7927331 4.0975021 8.7698719 4.09375 8.75 C 4.0349746 8.5031181 4 8.266517 4 8 C 4 7.7238576 4.0404664 7.4478904 4.09375 7.1875 C 4.2025687 6.6603451 4.392069 6.1805823 4.6875 5.75 C 4.9750316 5.3243972 5.3243972 4.9750316 5.75 4.6875 C 5.9628014 4.5437342 6.1982233 4.4137055 6.4375 4.3125 C 6.9154982 4.1091636 7.4506764 4 8 4 C 8.8239852 4 9.5799988 4.2547452 10.21875 4.6875 C 10.22624 4.6924873 10.242545 4.6824636 10.25 4.6875 C 10.675603 4.9750316 11.024968 5.3243972 11.3125 5.75 C 11.753407 6.3926089 12 7.1675566 12 8 C 12 8.2422883 11.986516 8.4613913 11.9375 8.6875 C 11.930422 8.7286137 11.914573 8.7718259 11.90625 8.8125 C 11.763585 9.5096885 11.453973 10.142661 11 10.65625 L 11 11.96875 C 12.199545 11.055407 13 9.6240342 13 8 C 13 5.2385763 10.761424 3 8 3 z "
+     id="path3011" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer10" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer11" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer13" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer14" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer15"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g71291"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="g4953"
+     style="display:inline" />
+  <g
+     transform="translate(-101.0002,-217)"
+     id="layer12"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     id="g3791"
+     transform="translate(-101.0002,-217)" />
+  <path
+     style="opacity:0.5;color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 8 5 C 6.3431458 5 5 6.3431458 5 8 C 5 8.8844678 5.3910945 9.6696762 6 10.21875 L 6 14 C 6 14.554 6.446 15 7 15 L 9 15 C 9.554 15 10 14.554 10 14 L 10 10.21875 C 10.608905 9.6696762 11 8.8844678 11 8 C 11 6.3431458 9.6568542 5 8 5 z M 8 6 C 9.1045695 6 10 6.8954305 10 8 C 10 8.7642284 9.5674791 9.4132996 8.9375 9.75 C 8.960713 9.8347685 9 9.9076667 9 10 L 9 13 C 9 13.554 8.554 14 8 14 C 7.446 14 7 13.554 7 13 L 7 10 C 7 9.9076667 7.039287 9.8347685 7.0625 9.75 C 6.4325209 9.4132996 6 8.7642284 6 8 C 6 6.8954305 6.8954305 6 8 6 z "
+     id="path2998" />
+</svg>
