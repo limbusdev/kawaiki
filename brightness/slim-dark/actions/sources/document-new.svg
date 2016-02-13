@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.1200003"
-     inkscape:cx="117.61249"
-     inkscape:cy="7.2215868"
+     inkscape:zoom="2.5600002"
+     inkscape:cx="-7.4873123"
+     inkscape:cy="70.444519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -371,8 +371,14 @@
        inkscape:connector-curvature="0" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 146,1036.3622 0,0.5 0,15 0,0.5 0.5,0 11,0 0.5,0 0,-0.5 0,-13.5 0,-0.2031 -0.14063,-0.1563 -1.5,-1.5 -0.15625,-0.1406 -0.20312,0 -9.5,0 -0.5,0 z m 1,1 8.78125,0 1.21875,1.2187 0,12.7813 -10,0 0,-14 z m 4.5,5 0,1.5 -1.5,0 0,1 1.5,0 0,1.5 1,0 0,-1.5 1.5,0 0,-1 -1.5,0 0,-1.5 -1,0 z"
+       d="m 146,1036.3622 0,0.5 0,15 0,0.5 0.5,0 11,0 0.5,0 0,-0.5 0,-13.5 0,-0.2031 -0.14063,-0.1563 -1.5,-1.5 -0.15625,-0.1406 -0.20312,0 -9.5,0 z m 1,1 8.78125,0 1.21875,1.2187 0,12.7813 -10,0 z"
        id="path3029"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 153 115 L 153 117 L 151 117 L 151 118 L 153 118 L 153 120 L 154 120 L 154 118 L 156 118 L 156 117 L 154 117 L 154 115 L 153 115 z "
+       transform="translate(0,924.36218)"
+       id="rect3038" />
   </g>
 </svg>
