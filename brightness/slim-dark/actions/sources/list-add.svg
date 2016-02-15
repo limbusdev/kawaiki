@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3302348"
-     inkscape:cx="133.55009"
-     inkscape:cy="8.0553871"
+     inkscape:zoom="18.838653"
+     inkscape:cx="153.47541"
+     inkscape:cy="11.533669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1221"
-     inkscape:window-height="1000"
-     inkscape:window-x="59"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -110,18 +110,6 @@
        fy="52"
        r="37.46875"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter6972"
-       x="-0.12"
-       width="1.24"
-       y="-0.12"
-       height="1.24">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.4016959"
-         id="feGaussianBlur6974" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8794-33"
@@ -143,18 +131,6 @@
        r="8"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.25,0,0,1.25,-38.5,-29.5)" />
-    <filter
-       inkscape:collect="always"
-       id="filter3798"
-       x="-0.12"
-       width="1.24"
-       y="-0.12"
-       height="1.24">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.4016959"
-         id="feGaussianBlur3800" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7110-6"
@@ -394,11 +370,6 @@
        y="112"
        transform="translate(0,924.36218)"
        rx="4.5902016e-07" />
-    <path
-       style="fill:url(#radialGradient6946);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.31372549000000000;stroke-dasharray:none"
-       d="M 152 112 C 147.58172 112 144 115.58172 144 120 C 144 124.41828 147.58172 128 152 128 C 156.41828 128 160 124.41828 160 120 C 160 115.58172 156.41828 112 152 112 z M 151 114 L 153 114 L 153 119 L 158 119 L 158 121 L 153 121 L 153 126 L 151 126 L 151 121 L 146 121 L 146 119 L 151 119 L 151 114 z "
-       transform="translate(0,924.36218)"
-       id="path5921" />
     <rect
        ry="8"
        rx="8"
@@ -449,5 +420,10 @@
        d="m 63.999985,948.74246 c -19.66701,0 -35.61973,15.95272 -35.61973,35.61975 0,19.66719 15.95272,35.61969 35.61973,35.61969 19.66704,0 35.61976,-15.9525 35.61976,-35.61969 0,-19.66703 -15.95272,-35.61975 -35.61976,-35.61975 z m 0,4.45618 c 17.20865,0 31.16358,13.95493 31.16358,31.16357 0,17.20859 -13.95493,31.16369 -31.16358,31.16369 -17.20865,0 -31.16357,-13.9551 -31.16357,-31.16369 0,-17.20864 13.95492,-31.16357 31.16357,-31.16357 z m -4.45619,8.91238 0,17.7949 -17.79501,0 0,8.91239 17.79501,0 0,17.79519 8.91238,0 0,-17.79519 17.79501,0 0,-8.91239 -17.79501,0 0,-17.7949 -8.91238,0 z"
        style="fill:url(#radialGradient3869);fill-opacity:1;stroke:#000000;stroke-width:2.76053071;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.18823529;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 151.5 112 C 147.35786 112 144 115.35786 144 119.5 C 144 123.64214 147.35786 127 151.5 127 C 155.64214 127 159 123.64214 159 119.5 C 159 115.35786 155.64214 112 151.5 112 z M 151.5 113 C 155.08985 113 158 115.91015 158 119.5 C 158 123.08985 155.08985 126 151.5 126 C 147.91015 126 145 123.08985 145 119.5 C 145 115.91015 147.91015 113 151.5 113 z M 151 115 L 151 119 L 147 119 L 147 120 L 151 120 L 151 124 L 152 124 L 152 120 L 156 120 L 156 119 L 152 119 L 152 115 L 151 115 z "
+       transform="translate(0,924.36218)"
+       id="path3494" />
   </g>
 </svg>
