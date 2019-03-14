@@ -1,6 +1,8 @@
 kawaiki
 =======
 
+![](./choose_your_side.png)
+
 Kawaiki Icon Theme
 
 
