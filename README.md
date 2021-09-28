@@ -6,7 +6,7 @@
 
 Hello, I am happy, that you found my Icon-Theme. I put lots of work into it. It's still far from perfect, but made great progress during the last year. I know, nowadays people like flat, tile-like icons with consistent looks. Consistency really matters, but I just wanted to create a beautiful icon theme which meets the criteria of being consistent, but still giving you unique beauty with great detail for your desktop. I hope you like it, as much as I do and don't hesitate to comment, if you have any problems with it ;)
 
-![](./Kawaiki-Rainbow-Overview.png)
+![](./kawaikiNX_preview.png)
 
 
 Please take that one second to vote up, if you like my work :)
@@ -29,6 +29,18 @@ and will edit the themes files to go smootheley with your chosen GTK+ theme.
 
 Just run `./INSTALL.sh` from the command line, within the Kawaiki-Icon-Theme folder.
 Run as root to install for all users.
+
+
+# Colors
+
++ Human Earth `#ff7800` to `#672c00`
++ Happy Frog `#beff20` to `#3b7400`
++ Ice Princess `#5de0ff` to `#0094af`
++ Wild Serengeti `#ffb000` to `#ff7100`
++ Pitch Black `#292929` to `#000000`
++ Snow White `#ffffff` to `#ebebeb`
++ Summer Wine `#ed0f00` to `#740000`
++ Purple Gem `#ff0082` tom `#420046`
 
 
 
