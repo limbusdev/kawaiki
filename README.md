@@ -6,7 +6,7 @@
 
 Hello, I am happy, that you found my Icon-Theme. I put lots of work into it. It's still far from perfect, but made great progress during the last year. I know, nowadays people like flat, tile-like icons with consistent looks. Consistency really matters, but I just wanted to create a beautiful icon theme which meets the criteria of being consistent, but still giving you unique beauty with great detail for your desktop. I hope you like it, as much as I do and don't hesitate to comment, if you have any problems with it ;)
 
-![](./Kawaiki-Rainbow-Overview.png)
+![](./kawaikiNX_preview.png)
 
 
 Please take that one second to vote up, if you like my work :)
