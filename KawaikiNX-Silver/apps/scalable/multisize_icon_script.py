@@ -52,7 +52,7 @@ for input_svg in svg_list:
 
     for size in [24, 22]:
         inkscape_command = ('inkscape '
-                            + '--export-area=144:32:176:64 '
+                            + '--export-area=144:64:176:96 '
                             + '--export-width=' + str(size) + ' '
                             + '--export-height=' + str(size) + ' '
                             + '--export-png='
@@ -65,7 +65,7 @@ for input_svg in svg_list:
 
     for size in [16]:
         inkscape_command = ('inkscape '
-                            + '--export-area=144:0:160:16 '
+                            + '--export-area=144:112:160:128 '
                             + '--export-width=' + str(size) + ' '
                             + '--export-height=' + str(size) + ' '
                             + '--export-png='

@@ -31,6 +31,18 @@ Just run `./INSTALL.sh` from the command line, within the Kawaiki-Icon-Theme fol
 Run as root to install for all users.
 
 
+# Colors
+
++ Human Earth `#ff7800` to `#672c00`
++ Happy Frog `#beff20` to `#3b7400`
++ Ice Princess `#5de0ff` to `#0094af`
++ Wild Serengeti `#ffb000` to `#ff7100`
++ Pitch Black `#292929` to `#000000`
++ Snow White `#ffffff` to `#ebebeb`
++ Summer Wine `#ed0f00` to `#740000`
++ Purple Gem `#ff0082` tom `#420046`
+
+
 
 ## Changelog
 

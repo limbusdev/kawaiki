@@ -39,10 +39,30 @@ fi
 basedir=$(pwd)
 theme1="/KawaikiNX-Only"
 theme1source=$basedir$theme1
-theme2="/KawaikiNX-Silver"
+theme2="/KawaikiNX-GoldenSunshine"
 theme2source=$basedir$theme2
-theme3="/KawaikiNX-WarmNoon"
+theme3="/KawaikiNX-HappyFrog"
 theme3source=$basedir$theme3
+theme4="/KawaikiNX-HumanEarth"
+theme4source=$basedir$theme4
+theme5="/KawaikiNX-IcePrincess"
+theme5source=$basedir$theme5
+theme6="/KawaikiNX-Silver"
+theme6source=$basedir$theme6
+theme7="/KawaikiNX-PurpleGem"
+theme7source=$basedir$theme7
+theme8="/KawaikiNX-SummerWine"
+theme8source=$basedir$theme8
+theme9="/KawaikiNX-BreezyForest"
+theme9source=$basedir$theme9
+theme10="/KawaikiNX-WildSerengeti"
+theme10source=$basedir$theme10
+theme11="/KawaikiNX-PitchBlack"
+theme11source=$basedir$theme11
+theme12="/KawaikiNX-SnowWhite"
+theme12source=$basedir$theme12
+theme13="/KawaikiNX-AzurOcean"
+theme13source=$basedir$theme13
 
 # copy files, depending on user-rights
 
@@ -52,11 +72,31 @@ then
     cp -r $theme1source ~/.icons/
     cp -r $theme2source ~/.icons/
     cp -r $theme3source ~/.icons/
+    cp -r $theme4source ~/.icons/
+    cp -r $theme5source ~/.icons/
+    cp -r $theme6source ~/.icons/
+    cp -r $theme7source ~/.icons/
+    cp -r $theme8source ~/.icons/
+    cp -r $theme9source ~/.icons/
+    cp -r $theme10source ~/.icons/
+    cp -r $theme11source ~/.icons/
+    cp -r $theme12source ~/.icons/
+    cp -r $theme13source ~/.icons/
 else
     mkdir /usr/share/icons
     cp -r $theme1source /usr/share/icons/
     cp -r $theme2source /usr/share/icons/
     cp -r $theme3source /usr/share/icons/
+    cp -r $theme4source /usr/share/icons/
+    cp -r $theme5source /usr/share/icons/
+    cp -r $theme6source /usr/share/icons/
+    cp -r $theme7source /usr/share/icons/
+    cp -r $theme8source /usr/share/icons/
+    cp -r $theme9source /usr/share/icons/
+    cp -r $theme10source /usr/share/icons/
+    cp -r $theme11source /usr/share/icons/
+    cp -r $theme12source /usr/share/icons/
+    cp -r $theme13source /usr/share/icons/
 fi
 
 # Copy XFCE specific icons
@@ -81,8 +121,8 @@ fi
 
 echo "Would you like to use specific theme-settings for your system?"
 echo "Standard [s]"
-echo "Ubuntu, dark panel [ud]"
-echo "Ubuntu, light panel [ul]"
+echo "Dark panel [d]"
+echo "Light panel [l]"
 echo "Xubuntu [x]"
 
 themeindex="/Theme-Index/standard/index.theme"
@@ -90,9 +130,9 @@ themeindex="/Theme-Index/standard/index.theme"
 read theme
 if [ "$theme" == "s" ]
     then echo "nothing will be changed"
-    elif [ "$theme" == "ud" ]
+    elif [ "$theme" == "d" ]
         then themeindex="/Theme-Index/ubuntu-dark/index.theme"
-    elif [ "$theme" == "ul" ]
+    elif [ "$theme" == "l" ]
         then themeindex="/Theme-Index/ubuntu-light/index.theme"
     elif [ "$theme" == "x" ]
         then themeindex="/Theme-Index/xubuntu-dark/index.theme"

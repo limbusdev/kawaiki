@@ -136,14 +136,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6168022"
-     inkscape:cx="122.66881"
-     inkscape:cy="110.24907"
+     inkscape:zoom="3.9606175"
+     inkscape:cx="111.59876"
+     inkscape:cy="94.555963"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -303,7 +303,7 @@
          x="145"
          y="1039.3622" />
       <path
-         style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+         style="fill:#babdb6;fill-opacity:1;stroke:none"
          d="m 148,1041.3622 v 1 h -4 v 8 h 16 v -9 z"
          id="front16" />
     </g>
